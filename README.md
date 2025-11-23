@@ -55,17 +55,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Create interactive dashboard in Power BI
   
-6. **Create Project Report and Presentation**
 
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
